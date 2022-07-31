@@ -1,0 +1,96 @@
+
+.center {
+
+  display: inline;
+  padding: 200px 200px;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-variant: small-caps;
+}
+
+.center2 {
+  display: inline;
+  color: rgb(68, 6, 60);
+  font-variant: small-caps;
+}
+
+body {
+  /*background-image: url("images/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg"); */
+ /* background-image: linear-gradient(rgb(216, 159, 159), rgb(61, 141, 14), rgb(84, 84, 128)); */
+ /*background-image: linear-gradient(180deg, red, yellow); */
+ background-image: linear-gradient(to right, rgba(175, 202, 120, 0.979), rgb(236, 72, 72));
+
+}
+
+.texts2 {
+  font-family: Georgia, 'Times New Roman', Times, sans-serif;
+  font-style: italic;
+  font-size: large;
+
+}
+
+
+.texts3 {
+  /* padding: 90px 540px; */
+  font-size: x-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-variant: small-caps;
+  color: rgb(68, 6, 60);
+}
+
+.texts4{
+  font-family: Georgia, 'Times New Roman', Times, sans-serif;
+  font-size: x-large;
+  padding-left: 750px;
+  display:flex;
+  color: rgb(75, 27, 9);
+  
+}
+
+.texts5 {
+  font-family: Georgia, 'Times New Roman', Times, sans-serif;
+  font-size: x-large;
+  color: rgba(134, 42, 9, 0.836);
+
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: larger;
+  color: rgb(5, 5, 73);
+}
+
+
+footer {
+  font-size: x-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+  color: rgb(68, 6, 60);
+}
+
+article {
+  text-shadow: 1px 1px rgb(116, 37, 37);
+  font-size: larger;
+  font-variant: small-caps;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+  font-size: larger;
+  color: rgb(50, 9, 88);
+  background-color: beige;
+}
+
+
+/*
+a.header:hover {
+  color: rgb(3, 3, 3);
+} */
+
+p.mavi {
+  color: yellowgreen;
+}
+
+a#anasayfa:link {
+  color:steelblue
+}

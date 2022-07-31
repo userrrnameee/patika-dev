@@ -1,0 +1,62 @@
+#googlelogo {
+    text-align: center;
+}
+
+
+.center{
+ 
+   text-align: center;
+}
+
+.upper-bar {
+    
+    width: 900px;
+    text-align: center;
+    margin: 0 550px;
+  
+  
+    background-color: #EEEEEE
+}
+
+.bottom-bar {
+
+    width: 900px;
+    text-align: center;
+    margin:0 550px;
+   
+
+ 
+  
+}
+
+.card_1 {
+  
+    width: 300px;
+    background-color: rgb(181, 223, 209);
+   float: left;
+   
+   
+   
+}
+
+.card_2 {
+    
+    width: 300px;
+    background-color: rgb(122, 194, 170);
+    /* margin: 2px; */
+    float: left;
+    
+}
+
+.card_3 {
+    width: 300px;
+    background-color: rgb(82, 165, 137);
+    /* margin: 2px; */
+    float: left;
+    
+
+}
+
+.clear {
+    clear: both;
+}
